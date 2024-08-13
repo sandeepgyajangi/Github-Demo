@@ -1,11 +1,16 @@
 {
-  "name": "source-checkout-and-download",
+  "name": "hey-nodejs",
   "version": "1.0.0",
-  "description": "A project to demonstrate source checkout and dependency installation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "sanwedeep",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
 
