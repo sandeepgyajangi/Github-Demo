@@ -6,12 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "sandeep",
-  "license": "ISC",
-  "dependencies": {
-    // Add your project dependencies here
-  },
-  "devDependencies": {
-    // Add your development dependencies here
-  }
+  "author": "sanwedeep",
 }
+
